@@ -59,7 +59,7 @@
     a:active,:visited{color: #0056b3;}
    
 
-    /* ------- NAV ------- */
+    /* ------- NAVIGATION BAR ------- */
     .nav-wrap {
       max-width: 100%;
       background: #ffffff;
@@ -138,7 +138,7 @@
     
 
 
-    .nav-links a:hover { color: #007bff; background: rgba(0,123,255,0.06); }
+    .nav-links a:hover { color: #d7dade; background: rgba(0,123,255,0.06); }
 
     /* ------- HERO ------- */
     .hero {
